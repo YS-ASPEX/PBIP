@@ -1,0 +1,939 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1989.991455078125,
+        "y": 566.66666666666674
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "_Меры",
+          "nodeLineageTag": "58876695-a1c3-4cbd-aac1-5ece6e122c56",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 35,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 374.4547359817617,
+            "y": 759.24099854630174
+          },
+          "nodeIndex": "Таблица",
+          "nodeLineageTag": "ff17c7f6-4be8-4404-8fb6-6d6ef7ace27c",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 36
+        },
+        {
+          "location": {
+            "x": 710.77608856485415,
+            "y": 714.49886171788592
+          },
+          "nodeIndex": "Тест",
+          "nodeLineageTag": "479781ce-adc9-4223-9378-5647d08fa82c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 39,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 813.02589346015,
+            "y": 414.18306646196379
+          },
+          "nodeIndex": "Calendar A",
+          "nodeLineageTag": "df17c8c9-3046-42b4-886f-0d4a69215a8d",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 37
+        },
+        {
+          "location": {
+            "x": 6,
+            "y": 904.97409667491979
+          },
+          "nodeIndex": "DimProject",
+          "nodeLineageTag": "70cf80d8-10e9-4192-ab94-8ab4bcfa55aa",
+          "size": {
+            "height": 325.79118915477,
+            "width": 234
+          },
+          "zIndex": 47
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 122.51499132843213
+          },
+          "nodeIndex": "Calendar B",
+          "nodeLineageTag": "49212b95-e1a7-42da-908f-9823f7a427ef",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 34
+        },
+        {
+          "location": {
+            "x": 1132.6281304197298,
+            "y": 308.83987397375608
+          },
+          "nodeIndex": "Таблица2 (тест)",
+          "nodeLineageTag": "a73a79fe-a429-4db4-bb30-e039e8fb5233",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 33
+        },
+        {
+          "location": {
+            "x": 2337.3382275407475,
+            "y": 623.44262660394179
+          },
+          "nodeIndex": "FactTimeEntries",
+          "nodeLineageTag": "32f27308-8507-4ae3-bb04-7a95bb796c2e",
+          "size": {
+            "height": 413.86228696956744,
+            "width": 330.66666666666674
+          },
+          "zIndex": 38
+        },
+        {
+          "location": {
+            "x": 1795.7673869811078,
+            "y": 648.81137053404791
+          },
+          "nodeIndex": "FactTasks",
+          "nodeLineageTag": "310f58f0-2a5f-4fd1-8bf9-9d686d8bb6b4",
+          "size": {
+            "height": 500.21715227175559,
+            "width": 234
+          },
+          "zIndex": 46
+        },
+        {
+          "location": {
+            "x": 2388.0225953144409,
+            "y": 1795.5691234534215
+          },
+          "nodeIndex": "Calendar C",
+          "nodeLineageTag": "21300a83-6cd2-4fa8-87a0-e2cb7ba7a66d",
+          "size": {
+            "height": 352.85714285714289,
+            "width": 234
+          },
+          "zIndex": 56
+        },
+        {
+          "location": {
+            "x": 2095.9838837425887,
+            "y": 330.05555555555554
+          },
+          "nodeIndex": "DimPart",
+          "nodeLineageTag": "772b556d-eb7a-48b7-b28c-39617336b81e",
+          "size": {
+            "height": 128,
+            "width": 155.66666666666697
+          },
+          "zIndex": 30
+        },
+        {
+          "location": {
+            "x": 1546.9340536477741,
+            "y": 330.67708333333337
+          },
+          "nodeIndex": "DimStage",
+          "nodeLineageTag": "3c86a252-b266-4cc5-9b02-3c9b73dcefdf",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 31
+        },
+        {
+          "location": {
+            "x": 1814.7061059648104,
+            "y": 328.95122839337728
+          },
+          "nodeIndex": "DimList",
+          "nodeLineageTag": "6d95b5b3-8654-49fc-9ce6-d9c0c5e7d566",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 32
+        },
+        {
+          "location": {
+            "x": 1376.2673869811078,
+            "y": 1067.9024567867546
+          },
+          "nodeIndex": "DimAssignee (для задач)",
+          "nodeLineageTag": "319ece89-064c-484e-b2ef-c1d24157a240",
+          "size": {
+            "height": 369.33333333333337,
+            "width": 234
+          },
+          "zIndex": 41
+        },
+        {
+          "location": {
+            "x": 2910.896728515625,
+            "y": 995.00000000000023
+          },
+          "nodeIndex": "DimAssignee (для трекеров)",
+          "nodeLineageTag": "69874823-f83c-441b-8636-df7b67b35bc6",
+          "size": {
+            "height": 185,
+            "width": 234
+          },
+          "zIndex": 57
+        },
+        {
+          "location": {
+            "x": 1631.1847976953932,
+            "y": 2052.4036093457585
+          },
+          "nodeIndex": "DimBudget",
+          "nodeLineageTag": "ace41e21-14ea-491c-bdee-0631c1393406",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 3725.6483393620606,
+            "y": 1101.7131331552823
+          },
+          "nodeIndex": "DimClient",
+          "nodeLineageTag": "fec1ca02-aee5-4626-9ad9-9fed9a86d77a",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 26
+        },
+        {
+          "location": {
+            "x": 3749.2673869811078,
+            "y": 886.95122839337728
+          },
+          "nodeIndex": "DimFolder",
+          "nodeLineageTag": "ef5c6367-21dd-40bc-8bf3-e2b5280be8f9",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 4033.2673869811078,
+            "y": 898.95122839337728
+          },
+          "nodeIndex": "DimSpace",
+          "nodeLineageTag": "842cc4e2-6438-4b6c-9af6-aaf930317610",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 1510.6007203144409,
+            "y": 1774.2845617267108
+          },
+          "nodeIndex": "DimStatus",
+          "nodeLineageTag": "6a97eebb-a9dc-4b1d-a994-e7878d127536",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 49
+        },
+        {
+          "location": {
+            "x": 3761.2673869811074,
+            "y": 702.61789506004391
+          },
+          "nodeIndex": "DimTaskType",
+          "nodeLineageTag": "846e19bb-a5e1-43cb-9d0b-0e357e77c683",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 29
+        },
+        {
+          "location": {
+            "x": 4407.1959584096794,
+            "y": 1810.3797998219488
+          },
+          "nodeIndex": "VI_PlannedTimeActual",
+          "nodeLineageTag": "f5d8c2a9-12b3-4ecf-bae2-9c10d8ce47eb",
+          "size": {
+            "height": 358,
+            "width": 234
+          },
+          "zIndex": 54
+        },
+        {
+          "location": {
+            "x": 2751.8388155525367,
+            "y": 148.64055202484985
+          },
+          "nodeIndex": "FactTimeEntries (дубль для поиска наложений)",
+          "nodeLineageTag": "38befe10-5a27-425d-9671-ceb2e8fc5802",
+          "size": {
+            "height": 124,
+            "width": 414
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 3212.1423869811074,
+            "y": 1259.1178950600438
+          },
+          "nodeIndex": "DimDepartment (сотрудники)",
+          "nodeLineageTag": "3b2b8c0b-d16c-4437-978b-3c2c31bae8fa",
+          "size": {
+            "height": 170.66666666666652,
+            "width": 268.99999999999955
+          },
+          "zIndex": 40
+        },
+        {
+          "location": {
+            "x": 2087.2673869811078,
+            "y": 1141.6544737650111
+          },
+          "nodeIndex": "DimDepartment (задачи)",
+          "nodeLineageTag": "69a22473-b40c-4ad5-9838-e826139e4a13",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 3215.1007203144413,
+            "y": 975.95122839337728
+          },
+          "nodeIndex": "Действ_сотр (для трекеров)",
+          "nodeLineageTag": "b8de1931-4d6e-446b-989e-4c724eb35f3a",
+          "size": {
+            "height": 124,
+            "width": 264
+          },
+          "zIndex": 45
+        },
+        {
+          "location": {
+            "x": 1095.2673869811078,
+            "y": 1066.6544737650111
+          },
+          "nodeIndex": "Действ_сотр (для задач)",
+          "nodeLineageTag": "35aebf4b-6730-46e8-9550-c1a5cb04a7bd",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 3341.9340536477739,
+            "y": 263.33333333333337
+          },
+          "nodeIndex": "Спецтаблица",
+          "nodeLineageTag": "6d029cbf-b716-4fc7-a841-60f34df843bc",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 2711.9653036477753,
+            "y": 1394.6178950600438
+          },
+          "nodeIndex": "Ключ треканья когда-нибудь",
+          "nodeLineageTag": "4d0b4e30-cba2-4eae-8970-537d1100548d",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 43
+        },
+        {
+          "location": {
+            "x": 2546.2673869811074,
+            "y": 1180.2131331552825
+          },
+          "nodeIndex": "FactTimeEntries (ref для отметки трекинга)",
+          "nodeLineageTag": "1b0e174a-13ad-4241-a523-c04bbc2a9e6a",
+          "size": {
+            "height": 164,
+            "width": 234
+          },
+          "zIndex": 44
+        },
+        {
+          "location": {
+            "x": 1171.2673869811078,
+            "y": 1629.8797998219493
+          },
+          "nodeIndex": "Ключи П/Ф",
+          "nodeLineageTag": "76fc39c0-af6f-4849-b0d7-d099f065722c",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 42
+        },
+        {
+          "location": {
+            "x": 1784.1245298382507,
+            "y": 1253.714285714286
+          },
+          "nodeIndex": "FactTasksCJ",
+          "size": {
+            "height": 672,
+            "width": 234
+          },
+          "zIndex": 52
+        },
+        {
+          "location": {
+            "x": 2931.6007203144404,
+            "y": 12.321140431677748
+          },
+          "nodeIndex": "FactTimeEntries для CJ",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 747.93405364777436,
+            "y": 6.2131331552820939
+          },
+          "nodeIndex": "Все месяцы",
+          "nodeLineageTag": "5d48e258-e301-4f03-856a-4cbca591f0bb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 395.64238698110762,
+            "y": 0
+          },
+          "nodeIndex": "AVI_TasksForDashboard",
+          "nodeLineageTag": "fc727884-40ec-4b96-ae7f-bcadadf6cb71",
+          "size": {
+            "height": 344.33333333333326,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 3601.9340536477739,
+            "y": 179.28456172671054
+          },
+          "nodeIndex": "Par2-1 Второй уровень календарей",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 3855.2673869811078,
+            "y": 172.64228086335527
+          },
+          "nodeIndex": "Par2-2 Второй уровень задач",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 4449.2673869811078,
+            "y": 196.21313315528232
+          },
+          "nodeIndex": "Par показателей",
+          "nodeLineageTag": "b065af1a-4692-47ae-bad7-7603237ee9d9",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 4150.8571428571431,
+            "y": 12.857142857142833
+          },
+          "nodeIndex": "Par Грнлрнсть Ганта",
+          "nodeLineageTag": "f4663a63-4d7d-42d8-8aad-b16b8a228203",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 1616.2131331552823
+          },
+          "nodeIndex": "Дата старта первой задачи проекта",
+          "nodeLineageTag": "5e1b221d-241b-44de-8466-8be7c56a828d",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 48
+        },
+        {
+          "location": {
+            "x": 3861.2673869811078,
+            "y": 358.21313315528232
+          },
+          "nodeIndex": "Par2-3 Второй уровень Ганта",
+          "nodeLineageTag": "5022f22a-aef7-457e-94da-0960a19608e6",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 3603.2673869811078,
+            "y": 354.21313315528232
+          },
+          "nodeIndex": "Par1-3 Первый уровень Ганта",
+          "nodeLineageTag": "5bc54844-88de-4712-9b46-09c6d117159b",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 4441.2673869811078,
+            "y": 380.21313315528232
+          },
+          "nodeIndex": "Par П ≷ Ф",
+          "nodeLineageTag": "deb5c512-d4ec-47c4-9bdf-058da09ea9e9",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 50
+        },
+        {
+          "location": {
+            "x": 1997.2673869811078,
+            "y": 2016.2131331552823
+          },
+          "nodeIndex": "DimStatus (ref для независимого переключателя)",
+          "nodeLineageTag": "74261e2b-6c95-4710-a86f-5162d48f4729",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 51
+        },
+        {
+          "location": {
+            "x": 3839.8507203144413,
+            "y": 0
+          },
+          "nodeIndex": "Par1-2 Первый уровень задач",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 3595.6007203144409,
+            "y": 0
+          },
+          "nodeIndex": "Par1-1 Первый уровень календарей",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 4418.124529838251,
+            "y": 721.42857142857144
+          },
+          "nodeIndex": "Par Грнлрнсть задач",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 2243.8864346001556,
+            "y": 1483.333333333333
+          },
+          "nodeIndex": "FactTasksCJ для подсчёта рабочих дней",
+          "nodeLineageTag": "29068c8b-ffd5-481c-ae48-8b2d65480aac",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 53
+        },
+        {
+          "location": {
+            "x": 4730.5531012668225,
+            "y": 381.66666666666669
+          },
+          "nodeIndex": "Par Грнлрнсть КП",
+          "nodeLineageTag": "20d73156-9298-4c84-a38b-786e0fd1c58d",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 4131.8388155525372,
+            "y": 349.47561419668847
+          },
+          "nodeIndex": "Par Грнлрнсть подсказки)",
+          "size": {
+            "height": 152,
+            "width": 262.57142857142844
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 4449.2673869811078,
+            "y": 2.2131331552823212
+          },
+          "nodeIndex": "Par Выбор значений КП",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 5216.2197679334895,
+            "y": 183.33333333333331
+          },
+          "nodeIndex": "PTPD_Yuriy Saltanov",
+          "nodeLineageTag": "d451a5e2-4d12-42bf-822f-f9dd26def7da",
+          "size": {
+            "height": 124,
+            "width": 237.33333333333394
+          },
+          "zIndex": 59
+        },
+        {
+          "location": {
+            "x": 2926.8864346001551,
+            "y": 1751.6666666666672
+          },
+          "nodeIndex": "PTPD",
+          "nodeLineageTag": "de8ef793-4669-4de4-8f0e-3249e2c6272e",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 55
+        },
+        {
+          "location": {
+            "x": 5217.1117592175669,
+            "y": 328.66666666666663
+          },
+          "nodeIndex": "PTPD_Maria Lebedeva",
+          "nodeLineageTag": "882c6f0a-ed1c-483f-afcb-31d11934dded",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 4766.8864346001556,
+            "y": 1906.666666666667
+          },
+          "nodeIndex": "WorkDay",
+          "nodeLineageTag": "ecf53ced-eb91-48c1-9841-fd05b9d4d985",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 5218.5531012668234,
+            "y": 620.00000000000011
+          },
+          "nodeIndex": "PTPD_Aleksei Ziamin",
+          "nodeLineageTag": "4b614e4f-cc77-4c76-b1cc-eac3785c4d54",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 5216.1858137579165,
+            "y": 473.33333333333337
+          },
+          "nodeIndex": "PTPD_Inga Kharchenko",
+          "nodeLineageTag": "343088d3-be79-4020-b46c-d8fe959b2a1f",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 58
+        },
+        {
+          "location": {
+            "x": 5218.8185262490078,
+            "y": 775
+          },
+          "nodeIndex": "PTPD_Inga Nikitina",
+          "nodeLineageTag": "a9c2f50f-964b-45a9-9ed9-b3f794413f80",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 3366.1518595823404,
+            "y": 1693.3333333333335
+          },
+          "nodeIndex": "PTPD Список",
+          "nodeLineageTag": "28cccc7b-00f8-4205-b00b-70e85745ad11",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 60
+        },
+        {
+          "location": {
+            "x": 5503.5531012668234,
+            "y": 0
+          },
+          "nodeIndex": "Par Отпуска",
+          "nodeLineageTag": "2fe347c4-4c22-4fb7-9ce9-62f884785e7d",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 5489.21976793349,
+            "y": 181.66666666666669
+          },
+          "nodeIndex": "PTPD_Anna Boiko",
+          "nodeLineageTag": "baefae3c-4c7e-40d3-87f0-015ca8a8fdd0",
+          "size": {
+            "height": 126.33333333333334,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5491.5531012668234,
+            "y": 340
+          },
+          "nodeIndex": "PTPD_Aruzhan Sembayeva",
+          "nodeLineageTag": "9c9f10bf-a7f0-4af6-81a9-fb0a05918b6b",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5487.7043713438852,
+            "y": 481.66666666666669
+          },
+          "nodeIndex": "PTPD_Darya Bernyakovich",
+          "nodeLineageTag": "5d97df88-888a-4e8a-908b-1e6a1c18e9e7",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5488.8556414209488,
+            "y": 630
+          },
+          "nodeIndex": "PTPD_Maria Rybalko",
+          "nodeLineageTag": "9ef48286-fb62-4537-940d-a17a75513cb2",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5486.6735781646785,
+            "y": 778.33333333333337
+          },
+          "nodeIndex": "PTPD_Yevgeniya Divenko",
+          "nodeLineageTag": "61cf6cbb-da4a-45a8-97c3-7c3a2db192ff",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2735.6735781646776,
+            "y": 2078.3333333333335
+          },
+          "nodeIndex": "PTPDМесяцОтпуска",
+          "nodeLineageTag": "9e984d2f-d63e-41f5-a007-bd673ccd2b45",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5787.5531012668234,
+            "y": 0
+          },
+          "nodeIndex": "Par_МесяцОтпуска",
+          "nodeLineageTag": "c0be1b15-2ec3-4383-a5e4-4f3f8e38c5f9",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6071.5531012668234,
+            "y": 0
+          },
+          "nodeIndex": "ДатаВремя обновления",
+          "nodeLineageTag": "f334cd96-8c2a-40c5-a2ce-7c3973925d88",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6355.5531012668234,
+            "y": 0
+          },
+          "nodeIndex": "DimWorkBlock",
+          "nodeLineageTag": "920e90f9-c364-4692-9419-c379960c24cb",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1325.3603929334906,
+            "y": 709.99999999999989
+          },
+          "nodeIndex": "DimAssignee (Creator)",
+          "nodeLineageTag": "7e0e4b15-8805-4f7b-b98e-eefa1853b79c",
+          "size": {
+            "height": 147.66666666666663,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Все таблицы",
+      "zoomValue": 60,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [],
+      "name": "Layout 1",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Layout 1",
+  "defaultDiagram": "Все таблицы"
+}
